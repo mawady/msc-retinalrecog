@@ -2,7 +2,7 @@
 
 ## ToDo List
 - W21Y2022
-  - Prepare presentation [link](xxx)
+  - Prepare presentation [[link](xxx)]
 
 ---
 
