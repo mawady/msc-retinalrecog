@@ -1,8 +1,8 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
-### W21Y2022
-- Prepare presentation [link](xxx)
+- W21Y2022
+  - Prepare presentation [link](xxx)
 
 ---
 
