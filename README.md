@@ -3,6 +3,8 @@
 ## ToDo List
 - W21Y2022
   - Prepare presentation [[link](https://stir-my.sharepoint.com/:b:/g/personal/chc00198_students_stir_ac_uk/EWCeo7M9ktdAjM4ytY-z3JwBmv_E9XijoQt8JeHFPBGf6Q?e=vuXrlY)]
+- W22Y2022
+  - Review existing implementations
 
 ---
 
@@ -12,7 +14,8 @@
 ---
 
 ## Online Implementations
-
+### Diabetic Retinopathy Detection
+- Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) [[code] (https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)]
 ---
 
 ## Related work
