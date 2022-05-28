@@ -30,5 +30,5 @@
 
 | Dataset     | # Samples   | Description |
 | ----------- | ----------- | ----------- |
-| [[Kaggle EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection)]     | > 80.000       | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).       |
-| [[Kaggle APTOS 2019](https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview)]   | 5590        | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).         |
+| [Kaggle EyePACS(https://www.kaggle.com/c/diabetic-retinopathy-detection)]     | > 80.000       | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).       |
+| [Kaggle APTOS 2019(https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview)]   | 5590        | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).         |
