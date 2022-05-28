@@ -15,7 +15,7 @@
 
 ## Online Implementations
 ### Diabetic Retinopathy Detection
-- Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) [[code] (https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)]
+- Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) [[code](https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)]
 ---
 
 ## Related work
