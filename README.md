@@ -30,5 +30,20 @@
 
 | Dataset     | # Samples   | Description |
 | ----------- | ----------- | ----------- |
-| [Kaggle EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection)     | > 80.000       | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).       |
-| [Kaggle APTOS 2019](https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview)   | 5590        | Fundus images for **diabetic retinopathy** detection, graded according to the ICDRDSS scale (0-4).         |
+| [Kaggle EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection)     | > 80.000       | Fundus images for **DR** detection (graded 0-4)      |
+| [Kaggle APTOS 2019](https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview)   | 5590        | Fundus images for **DR** detection (graded 0-4)       |
+| [MESSIDOR](https://www.adcis.net/en/third-party/messidor/)   | 1200       | Fundus images for **DR** detection (graded 0-3) and assessment of **ME** risk (graded 0-2)         |
+| [DDR](https://github.com/nkicsl/DDR-dataset)   | 12522       | Fundus images for **DR** detection (graded 0-5)          |
+| [STARE](https://cecas.clemson.edu/~ahoover/stare/)   |        |  |
+| [REFUGE](https://ieee-dataport.org/documents/refuge-retinal-fundus-glaucoma-challenge)   |  1200      | Fundus images for **GL** detection  |
+| [RIM-ONE](https://github.com/miag-ull/rim-one-dl)   |  313      | Fundus images for **GL** detection  |
+| [ODIR](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)   |  5000      | Fundus images for detection of:
+- Diabetes (D),
+- Glaucoma (G),
+- Cataract (C),
+- Age related Macular Degeneration (A),
+- Hypertension (H),
+- Pathological Myopia (M),
+- Other diseases/abnormalities (O)|
+
+
