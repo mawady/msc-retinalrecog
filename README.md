@@ -4,7 +4,10 @@
 - W21Y2022
   - Prepare presentation [[link](https://stir-my.sharepoint.com/:b:/g/personal/chc00198_students_stir_ac_uk/EWCeo7M9ktdAjM4ytY-z3JwBmv_E9XijoQt8JeHFPBGf6Q?e=vuXrlY)]
 - W22Y2022
-  - Review existing implementations
+  - Review existing implementations for DR detection
+  - Analyse available datasets
+- W23Y2022
+  - Set up development environment and discuss availability of technical resources
 
 ---
 
