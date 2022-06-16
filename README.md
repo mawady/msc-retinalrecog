@@ -33,6 +33,10 @@
 ### Interpretability
 - Niu, Y., et al., Explainable Diabetic Retinopathy Detection and Retinal Image Generation, IEEE Journal of Biomedical and Health Informatics (2021) [[link](https://doi.org/10.48550/arXiv.2107.00296)]
 
+### Preprocessing of fundus images
+- Hernandez-Matas, C., Argyros, A. A., Zabulis, X., Retinal image preprocessing, enhancement, and registration, Elsevier and MICCAI Society Book Series, Computational Retinal Image Analysis, Academic Press, Chapter 4 - Pages 59-77 (2019)
+[[link](https://doi.org/10.1016/B978-0-08-102816-2.00004-6)]
+
 ---
 
 ## Datasets
