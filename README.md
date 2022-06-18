@@ -26,6 +26,7 @@
 ### Diabetic Retinopathy Detection
 - Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) [[code](https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)]
 - Mathis, A., Brüggemann†, S., Kaggle Diabetic Retinopathy Detection Team o_O solution (2015) [[code](https://github.com/sveitser/kaggle_diabetic)]
+- EyeNET [[code](https://github.com/gregwchase/eyenet)]
 
 
 ---
