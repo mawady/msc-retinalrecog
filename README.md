@@ -8,11 +8,17 @@
   - Analyse available datasets
 - W23Y2022
   - Set up development environment and discuss availability of technical resources
-
+- W24Y2022
+  - Update presentation 
+  - Image preprocessing (APTOS2019 and MESSIDOR)
+- W25Y2022
+  - Replace MESSIDOR with MESSIDOR-2
+  - Review more SOTA papers on Retinal Image Preprocessing
+  - Review and replicate a simple CNN implementation
 ---
 
 ## Experiments
-- 1st test 
+- **Image preprocessing**: [[code](https://github.com/mawady/msc-retinalrecog/blob/main/Experiment1.ipynb)]
 
 ---
 
