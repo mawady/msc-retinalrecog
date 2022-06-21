@@ -19,6 +19,7 @@
 
 ## Experiments
 - **Image preprocessing**: [[code](https://github.com/mawady/msc-retinalrecog/blob/main/Experiment1.ipynb)]
+- **AlexNet training**: basic implementation of a classifier using AlexNet. This allows to fix any problems in the preprocessing of data. [[code](https://github.com/mawady/msc-retinalrecog/blob/main/Training.ipynb)] 
 
 ---
 
