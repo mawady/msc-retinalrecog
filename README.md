@@ -1,20 +1,21 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
-- W21Y2022
-  - Prepare presentation [[link](https://stir-my.sharepoint.com/:b:/g/personal/chc00198_students_stir_ac_uk/EWCeo7M9ktdAjM4ytY-z3JwBmv_E9XijoQt8JeHFPBGf6Q?e=vuXrlY)]
-- W22Y2022
-  - Review existing implementations for DR detection
-  - Analyse available datasets
-- W23Y2022
-  - Set up development environment and discuss availability of technical resources
-- W24Y2022
-  - Update presentation 
-  - Image preprocessing (APTOS2019 and MESSIDOR)
 - W25Y2022
   - Replace MESSIDOR with MESSIDOR-2
   - Review more SOTA papers on Retinal Image Preprocessing
   - Review and replicate a simple CNN implementation
+- W24Y2022
+  - Update presentation 
+  - Image preprocessing (APTOS2019 and MESSIDOR)
+- W23Y2022
+  - Set up development environment and discuss availability of technical resources
+- W22Y2022
+  - Review existing implementations for DR detection
+  - Analyse available datasets
+- W21Y2022
+  - Prepare presentation [[link](https://stir-my.sharepoint.com/:b:/g/personal/chc00198_students_stir_ac_uk/EWCeo7M9ktdAjM4ytY-z3JwBmv_E9XijoQt8JeHFPBGf6Q?e=vuXrlY)]
+
 ---
 
 ## Experiments
