@@ -11,7 +11,7 @@
   - [x] Review and replicate a simple CNN implementation
   - [ ] Add code to download the dataset in the Colab notebook
   - [ ] Analyse and address class imbalancing
-  - [ ] Select model with the highest validation accuracy
+  - [ ] Select model with the highest validation accuracy and save it 
   - [ ] Perform Image Augmentation before training
   - [ ] Migrate implementation from TF to PyTorch
 - W24Y2022
