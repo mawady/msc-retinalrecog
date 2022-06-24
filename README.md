@@ -1,20 +1,29 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
+- W26Y2022
+  - [ ] Migrate implementation from TF to PyTorch (cont'd)
+  - [ ] Start writing Chap 1 (Introduction)
+  - [ ] Replicate existing implementations (exec. code or manually reproducting the architecture) 
 - W25Y2022
-  - Replace MESSIDOR with MESSIDOR-2
-  - Review more SOTA papers on Retinal Image Preprocessing
-  - Review and replicate a simple CNN implementation
+  - [x] Replace MESSIDOR with MESSIDOR-2
+  - [ ] Review more SOTA papers on Retinal Image Preprocessing
+  - [x] Review and replicate a simple CNN implementation
+  - [ ] Add code to download the dataset in the Colab notebook
+  - [ ] Analyse and address class imbalancing
+  - [ ] Select model with the highest validation accuracy
+  - [ ] Perform Image Augmentation before training
+  - [ ] Migrate implementation from TF to PyTorch
 - W24Y2022
-  - Update presentation 
-  - Image preprocessing (APTOS2019 and MESSIDOR)
+  - [x] Update presentation [[link](https://drive.google.com/file/d/1OGX0bOEpyr_C9Rqg5B8KhPnTC-lmHrdR/view?usp=sharing)]
+  - [x] Image preprocessing (APTOS2019 and MESSIDOR)
 - W23Y2022
-  - Set up development environment and discuss availability of technical resources
+  - [x] Set up development environment and discuss availability of technical resources
 - W22Y2022
-  - Review existing implementations for DR detection
-  - Analyse available datasets
+  - [x] Review existing implementations for DR detection
+  - [x] Analyse available datasets
 - W21Y2022
-  - Prepare presentation [[link](https://stir-my.sharepoint.com/:b:/g/personal/chc00198_students_stir_ac_uk/EWCeo7M9ktdAjM4ytY-z3JwBmv_E9XijoQt8JeHFPBGf6Q?e=vuXrlY)]
+  - [x] Prepare presentation [[link](https://drive.google.com/file/d/1x6Iau4zNEIXR8FRm3Yvq1iYo9vNtHmaH/view?usp=sharing)]
 
 ---
 
