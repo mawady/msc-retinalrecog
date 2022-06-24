@@ -10,7 +10,7 @@
   - [ ] Review more SOTA papers on Retinal Image Preprocessing
   - [x] Review and replicate a simple CNN implementation
   - [ ] Add code to download the dataset in the Colab notebook
-  - [ ] Analyse and address class imbalancing
+  - [ ] EDA: Analyse and address class imbalancing
   - [ ] Select model with the highest validation accuracy and save it 
   - [ ] Perform Image Augmentation before training
   - [ ] Migrate implementation from TF to PyTorch
