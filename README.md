@@ -2,17 +2,15 @@
 
 ## ToDo List
 - W26Y2022
-  - [ ] Migrate implementation from TF to PyTorch (cont'd)
+  - [ ] Add code to download the dataset in the Colab notebook
+  - [ ] Select model with the highest validation accuracy and save it 
+  - [ ] Perform Image Augmentation before training
   - [ ] Start writing Chap 1 (Introduction)
   - [ ] Replicate existing implementations (exec. code or manually reproducting the architecture) 
 - W25Y2022
   - [x] Replace MESSIDOR with MESSIDOR-2
-  - [ ] Review more SOTA papers on Retinal Image Preprocessing
   - [x] Review and replicate a simple CNN implementation
-  - [ ] Add code to download the dataset in the Colab notebook
   - [x] EDA: Analyse and address class imbalancing
-  - [ ] Select model with the highest validation accuracy and save it 
-  - [ ] Perform Image Augmentation before training
   - [x] Migrate implementation from TF to PyTorch
 - W24Y2022
   - [x] Update presentation [[link](https://drive.google.com/file/d/1OGX0bOEpyr_C9Rqg5B8KhPnTC-lmHrdR/view?usp=sharing)]
