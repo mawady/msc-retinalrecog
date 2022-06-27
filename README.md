@@ -13,7 +13,7 @@
   - [x] EDA: Analyse and address class imbalancing
   - [ ] Select model with the highest validation accuracy and save it 
   - [ ] Perform Image Augmentation before training
-  - [ ] Migrate implementation from TF to PyTorch
+  - [x] Migrate implementation from TF to PyTorch
 - W24Y2022
   - [x] Update presentation [[link](https://drive.google.com/file/d/1OGX0bOEpyr_C9Rqg5B8KhPnTC-lmHrdR/view?usp=sharing)]
   - [x] Image preprocessing (APTOS2019 and MESSIDOR)
