@@ -25,7 +25,8 @@
   
 ---
 ## Notes from supervisor
-- To improve the model performance [[mawady/colab-recipes-cv(https://github.com/mawady/colab-recipes-cv)]]
+- Use PyTorch instead of TF/Keras, for the sake of simiplicity (similar to NumPy)
+- To improve the model performance [[mawady/colab-recipes-cv](https://github.com/mawady/colab-recipes-cv)]
   - Save best model while training
   - Do data augmentation
   - Use pre-trained model
