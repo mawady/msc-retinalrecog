@@ -22,6 +22,31 @@
   - [x] Analyse available datasets
 - W21Y2022
   - [x] Prepare presentation [[link](https://drive.google.com/file/d/1x6Iau4zNEIXR8FRm3Yvq1iYo9vNtHmaH/view?usp=sharing)]
+  
+---
+## Notes from supervisor
+- To improve the model performance [[mawady/colab-recipes-cv(https://github.com/mawady/colab-recipes-cv)]]
+  - Save best model while training
+  - Do data augmentation
+  - Use pre-trained model
+  - Use weighted sampler for imbalanced data
+  - Use weighted metric for evaluation (i.e. balanced acc)
+- Find more papers with implementations [[Diabetic Retinopathy Detection](https://paperswithcode.com/task/diabetic-retinopathy-detection)] [[Diabetic Retinopathy Grading](https://paperswithcode.com/task/diabetic-retinopathy-grading)]
+- XAI in Retinal
+  - Muddamsetty, Satya M., Mohammad NS Jahromi, and Thomas B. Moeslund. "Expert level evaluations for explainable AI (XAI) methods in the medical domain." International Conference on Pattern Recognition. Springer, Cham, 2021.
+  - Kind, Adrian, and George Azzopardi. "An explainable AI-based computer aided detection system for diabetic retinopathy using retinal fundus images." International Conference on Computer Analysis of Images and Patterns. Springer, Cham, 2019.
+  - Niu, Yuhao, et al. "Explainable diabetic retinopathy detection and retinal image generation." IEEE Journal of Biomedical and Health Informatics 26.1 (2021): 44-55.
+- Idea: XAI (CNN vs ViT vs ConvNext)
+- Terms to search about:
+ - vision transformer diabetic retinopathy
+ - GradCAM
+- LaTex for macOS
+  - Compiler
+    - https://formulae.brew.sh/cask/mactex
+    - https://formulae.brew.sh/cask/basictex
+  - Text Editor
+    - https://www.texstudio.org
+    - https://www.xm1math.net/texmaker/
 
 ---
 
