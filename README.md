@@ -2,9 +2,9 @@
 
 ## ToDo List
 - W26Y2022
-  - [ ] Add code to download the dataset in the Colab notebook
-  - [ ] Select model with the highest validation accuracy and save it 
-  - [ ] Perform Image Augmentation before training
+  - [x] Add code to download the dataset in the Colab notebook
+  - [x] Select model with the highest validation accuracy and save it 
+  - [x] Perform Image Augmentation before training
   - [ ] Start writing Chap 1 (Introduction)
   - [ ] Replicate existing implementations (exec. code or manually reproducting the architecture) 
 - W25Y2022
