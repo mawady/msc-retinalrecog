@@ -7,7 +7,7 @@
   - [x] Perform Image Augmentation before training
   - [ ] Use Balanced Accuracy
   - [ ] Start writing Chap 1 (Introduction)
-  - [ ] Replicate existing implementations (exec. code or manually reproducting the architecture) 
+  - [ ] Replicate InceptionV3 implementation (Voets) -> ON HOLD: waiting for EyePACS dataset upload to DRIVE
 - W25Y2022
   - [x] Replace MESSIDOR with MESSIDOR-2
   - [x] Review and replicate a simple CNN implementation
