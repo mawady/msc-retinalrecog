@@ -66,6 +66,8 @@
 
 ## Online Implementations
 ### Diabetic Retinopathy Detection
+- [x] D.S.W. Ting, C.Y.-L. Cheung, G. Lim, G.S.W. Tan, N.D. Quang, A. Gan, H. Hamzah, R. Garcia-Franco, I.Y. San Yeo, S.Y. Lee, Development and validation of a deep learning system for diabetic retinopathy and related eye diseases using retinal images from multiethnic populations with diabetes, JAMA 318 (22) (2017) 2211–2223 ([[Paper](https://jamanetwork.com/journals/jama/fullarticle/2588763)])
+  - [ ] **Implemented by:** Voets, M., Møllersen, K., Bongo, L. A., Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs, CoRR (2018), ([[Paper](https://arxiv.org/abs/1803.04337)]) ([[Code](https://github.com/mikevoets/jama16-retina-replication)])
 - Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) [[code](https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)]
 - Mathis, A., Brüggemann†, S., Kaggle Diabetic Retinopathy Detection Team o_O solution (2015) [[code](https://github.com/sveitser/kaggle_diabetic)]
 - EyeNET [[code](https://github.com/gregwchase/eyenet)]
