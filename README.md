@@ -6,7 +6,7 @@
   - [x] Select model with the highest validation accuracy and save it 
   - [x] Perform Image Augmentation before training
   - [ ] Use Balanced Accuracy
-  - [ ] Start writing Chap 1 (Introduction)
+  - [x] Start writing Chap 1 (Introduction)
   - [ ] Replicate InceptionV3 implementation (Voets) -> ON HOLD: waiting for EyePACS dataset upload to DRIVE
 - W25Y2022
   - [x] Replace MESSIDOR with MESSIDOR-2
