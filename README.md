@@ -89,7 +89,7 @@
 
 ### Interpretability
 - [x] Niu, Y., et al., Explainable Diabetic Retinopathy Detection and Retinal Image Generation, IEEE Journal of Biomedical and Health Informatics (2021) [[link](https://doi.org/10.48550/arXiv.2107.00296)]
-- [ ] Muddamsetty, S. M., Jahromi, M. N. S., Moeslund, T. B., Expert level evaluations for explainable AI (XAI) methods in the medical domain, Pattern Recognition. ICPR International Workshops and Challenges (2021) [[link](https://doi.org/10.1007/978-3-030-68796-0_3)]
+- [x] Muddamsetty, S. M., Jahromi, M. N. S., Moeslund, T. B., Expert level evaluations for explainable AI (XAI) methods in the medical domain, Pattern Recognition. ICPR International Workshops and Challenges (2021) [[link](https://doi.org/10.1007/978-3-030-68796-0_3)]
 - [ ] Kind, Adrian, and George Azzopardi. An explainable AI-based computer aided detection system for diabetic retinopathy using retinal fundus images, International Conference on Computer Analysis of Images and Patterns. Springer, Cham, (2019) [[link](https://link.springer.com/content/pdf/10.1007/978-3-030-29888-3_37.pdf)]
 
 ### Preprocessing of fundus images
