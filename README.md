@@ -1,13 +1,16 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
+- W27Y2022
+  - [ ] Replicate InceptionV3 implementation (Voets)
+  - [x] Read papers on Explainable AI
+  - [ ] Write Chapter 1 & 2
 - W26Y2022
   - [x] Add code to download the dataset in the Colab notebook
   - [x] Select model with the highest validation accuracy and save it 
   - [x] Perform Image Augmentation before training
   - [ ] Use Balanced Accuracy
   - [x] Start writing Chap 1 (Introduction)
-  - [ ] Replicate InceptionV3 implementation (Voets) -> ON HOLD: waiting for EyePACS dataset upload to DRIVE
 - W25Y2022
   - [x] Replace MESSIDOR with MESSIDOR-2
   - [x] Review and replicate a simple CNN implementation
@@ -90,7 +93,7 @@
 ### Interpretability
 - [x] Niu, Y., et al., Explainable Diabetic Retinopathy Detection and Retinal Image Generation, IEEE Journal of Biomedical and Health Informatics (2021) [[link](https://doi.org/10.48550/arXiv.2107.00296)]
 - [x] Muddamsetty, S. M., Jahromi, M. N. S., Moeslund, T. B., Expert level evaluations for explainable AI (XAI) methods in the medical domain, Pattern Recognition. ICPR International Workshops and Challenges (2021) [[link](https://doi.org/10.1007/978-3-030-68796-0_3)]
-- [ ] Kind, Adrian, and George Azzopardi. An explainable AI-based computer aided detection system for diabetic retinopathy using retinal fundus images, International Conference on Computer Analysis of Images and Patterns. Springer, Cham, (2019) [[link](https://link.springer.com/content/pdf/10.1007/978-3-030-29888-3_37.pdf)]
+- [x] Kind, Adrian, and George Azzopardi. An explainable AI-based computer aided detection system for diabetic retinopathy using retinal fundus images, International Conference on Computer Analysis of Images and Patterns. Springer, Cham, (2019) [[link](https://link.springer.com/content/pdf/10.1007/978-3-030-29888-3_37.pdf)]
 
 ### Preprocessing of fundus images
 - [x] Hernandez-Matas, C., Argyros, A. A., Zabulis, X., Retinal image preprocessing, enhancement, and registration, Elsevier and MICCAI Society Book Series, Computational Retinal Image Analysis, Academic Press, Chapter 4 - Pages 59-77 (2019)
