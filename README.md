@@ -26,7 +26,16 @@
   - [x] Analyse available datasets
 - W21Y2022
   - [x] Prepare presentation [[link](https://drive.google.com/file/d/1x6Iau4zNEIXR8FRm3Yvq1iYo9vNtHmaH/view?usp=sharing)]
-  
+ 
+---
+## Issues
+- EyePACS is too large and takes too much time to be processed on Colab ( > 3 days just to unzip). A solution would be to use a smaller dataset (ex APTOS2019, but the majority of existing implementations are trained and tested on EyePACS, so how can we define a benchmark?
+- The existing implementations I have found for a CNN model fail to execute or take too long (Some state ETA: 7-10 days) and therefore the Colab runtime gets interrupted. 
+- I can't find any existing implementations for Vision Transformers and ConvNEXT. For ViT, I have a couple of papers that apply it to DR detection, for ConvNEXT I found nothing.
+
+###Solutions: 
+Write the code myself, adapting the architecture from existing SoTA papers for a CNN model and either ViT or ConvNEXT (or both if I have the time), and train it on a more manageable dataset like APTOS19 or MESSIDOR-2. Then compare the performance with the one stated in the SoTA papers (without evaluating it myself). Finally, apply XAI techniques on the models and compare performance.
+
 ---
 ## Notes from supervisor
 - Use PyTorch instead of TF/Keras, for the sake of simiplicity (similar to NumPy)
