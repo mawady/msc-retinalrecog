@@ -2,7 +2,7 @@
 
 ## ToDo List
 - W27Y2022
-  - [ ] Replicate InceptionV3 implementation (Voets)
+  - [ ] Replicate InceptionV3 implementation (Voets) -> **Execution fails at preprocessing stage after a few hours on Colab**
   - [x] Read papers on Explainable AI
   - [ ] Write Chapter 1 & 2
 - W26Y2022
