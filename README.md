@@ -1,15 +1,16 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
+- W28Y2022
+  - [ ] Replicate paper implementation
 - W27Y2022
-  - [ ] Replicate InceptionV3 implementation (Voets) -> **Execution fails at preprocessing stage after a few hours on Colab**
   - [x] Read papers on Explainable AI
-  - [ ] Write Chapter 1 & 2
+  - [x] Write Chapter 1 & 2
 - W26Y2022
   - [x] Add code to download the dataset in the Colab notebook
   - [x] Select model with the highest validation accuracy and save it 
   - [x] Perform Image Augmentation before training
-  - [ ] Use Balanced Accuracy
+  - [x] Use Balanced Accuracy
   - [x] Start writing Chap 1 (Introduction)
 - W25Y2022
   - [x] Replace MESSIDOR with MESSIDOR-2
