@@ -2,7 +2,9 @@
 
 ## ToDo List
 - W28Y2022
-  - [ ] Replicate paper implementation
+  - [x] Replicate paper implementation
+  - [x] Apply GradCAM to paper implementation
+  - [ ] Writeup results
 - W27Y2022
   - [x] Read papers on Explainable AI
   - [x] Write Chapter 1 & 2
