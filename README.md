@@ -79,11 +79,7 @@
   - [ ] **Implemented by:** Voets, M., Møllersen, K., Bongo, L. A., Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs, CoRR (2018), ([[Paper](https://arxiv.org/abs/1803.04337)]) ([[Code](https://github.com/mikevoets/jama16-retina-replication)])
  
 ##### ResNet50
-- [ ] Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) ([[Paper](https://arxiv.org/pdf/2003.02261v1.pdf)]) ([[Code](https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)])
-
----
-- Mathis, A., Brüggemann†, S., Kaggle Diabetic Retinopathy Detection Team o_O solution (2015) [[code](https://github.com/sveitser/kaggle_diabetic)]
-- EyeNET [[code](https://github.com/gregwchase/eyenet)]
+- [x] Tymchenko, B., Marchenko, P., Spodarets, D., Deep Learning Approach to Diabetic Retinopathy Detection (2020) ([[Paper](https://arxiv.org/pdf/2003.02261v1.pdf)]) ([[Code](https://github.com/debayanmitra1993-data/Blindness-Detection-Diabetic-Retinopathy-)])
 
 #### ViTs
 - [ ] Wu, J., Hu, R., Xiao, Z., Chen, J., & Liu, J. (2021). Vision Transformer‐based recognition of diabetic retinopathy grade. Medical Physics, 48(12), 7850-7863 ([[Paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)]) ([[Code](https://github.com/lukemelas/PyTorch-Pretrained-ViT)])
