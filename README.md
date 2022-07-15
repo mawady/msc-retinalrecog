@@ -4,7 +4,8 @@
 - W28Y2022
   - [x] Replicate paper implementation
   - [x] Apply GradCAM to paper implementation
-  - [ ] Writeup results
+  - [x] Writeup results
+  - [ ] Evaluate ViT model 
 - W27Y2022
   - [x] Read papers on Explainable AI
   - [x] Write Chapter 1 & 2
@@ -30,15 +31,6 @@
 - W21Y2022
   - [x] Prepare presentation [[link](https://drive.google.com/file/d/1x6Iau4zNEIXR8FRm3Yvq1iYo9vNtHmaH/view?usp=sharing)]
  
----
-## Issues
-- EyePACS is too large and takes too much time to be processed on Colab ( > 3 days just to unzip). A solution would be to use a smaller dataset (ex APTOS2019, but the majority of existing implementations are trained and tested on EyePACS, so how can we define a benchmark?
-- The existing implementations I have found for a CNN model fail to execute or take too long (Some state ETA: 7-10 days) and therefore the Colab runtime gets interrupted. 
-- I can't find any existing implementations for Vision Transformers and ConvNEXT. For ViT, I have a couple of papers that apply it to DR detection, for ConvNEXT I found nothing.
-
-**Solutions: **
-Write the code myself, adapting the architecture from existing SoTA papers for a CNN model and either ViT or ConvNEXT (or both if I have the time), and train it on a more manageable dataset like APTOS19 or MESSIDOR-2. Then compare the performance with the one stated in the SoTA papers (without evaluating it myself). Finally, apply XAI techniques on the models and compare performance.
-
 ---
 ## Notes from supervisor
 - Use PyTorch instead of TF/Keras, for the sake of simiplicity (similar to NumPy)
@@ -93,7 +85,8 @@ Write the code myself, adapting the architecture from existing SoTA papers for a
 - Mathis, A., Brüggemann†, S., Kaggle Diabetic Retinopathy Detection Team o_O solution (2015) [[code](https://github.com/sveitser/kaggle_diabetic)]
 - EyeNET [[code](https://github.com/gregwchase/eyenet)]
 
-
+#### ViTs
+- [ ] Wu, J., Hu, R., Xiao, Z., Chen, J., & Liu, J. (2021). Vision Transformer‐based recognition of diabetic retinopathy grade. Medical Physics, 48(12), 7850-7863 ([[Paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)]) ([[Code](https://github.com/lukemelas/PyTorch-Pretrained-ViT)])
 ---
 
 ## Related work
