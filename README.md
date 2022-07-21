@@ -58,10 +58,10 @@
     - https://www.xm1math.net/texmaker/
 - Bib management over LaTeX: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX
 - Papers to consider:
-  - https://paperswithcode.com/paper/diabetic-retinopathy-detection-via-deep
+  - https://paperswithcode.com/paper/diabetic-retinopathy-detection-via-deep **FAIL TO EXECUTE** [[link](https://github.com/mawady/msc-retinalrecog/blob/main/Implementations/RAM.ipynb)] 
   - https://paperswithcode.com/paper/replication-study-development-and-validation
   - https://paperswithcode.com/paper/a-unified-technique-for-entropy-enhancement
-  - https://paperswithcode.com/paper/deep-learning-approach-to-diabetic
+  - https://paperswithcode.com/paper/deep-learning-approach-to-diabetic **OK**
 ---
 
 ## Experiments
