@@ -1,6 +1,12 @@
 # Retinal imaging analysis - Recognition
 
 ## ToDo List
+- W30Y2022
+  - [ ] Implement ConvNext Model
+- W29Y2022
+  - [x] Continue writing chapter 1 & 2
+  - [x] Start on chapter 3
+  - [ ] Replicate existing implementation
 - W28Y2022
   - [x] Replicate paper implementation
   - [x] Apply GradCAM to paper implementation
