@@ -1,17 +1,25 @@
 # Retinal imaging analysis - Recognition
+## Report
+[[Report pdf](https://github.com/mawady/msc-retinalrecog/blob/main/Dissertation.pdf)]
 
 ## ToDo List
+- W31Y2022
+  - [x] Complete Chapter 2
+  - [x] Start Chapter 3
+  - [x] Improve ConvNEXT performance
+  - [ ] Compare ConvNEXT performance to ResNet50
+  - [ ] Apply GradCAM to ConvNext implementation
 - W30Y2022
-  - [ ] Implement ConvNext Model
+  - [x] Implement ConvNext Model
 - W29Y2022
   - [x] Continue writing chapter 1 & 2
   - [x] Start on chapter 3
-  - [ ] Replicate existing implementation
+  - [x] Replicate existing implementation
 - W28Y2022
   - [x] Replicate paper implementation
   - [x] Apply GradCAM to paper implementation
   - [x] Writeup results
-  - [ ] Evaluate ViT model 
+  - [x] Evaluate ViT model 
 - W27Y2022
   - [x] Read papers on Explainable AI
   - [x] Write Chapter 1 & 2
