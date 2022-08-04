@@ -7,7 +7,7 @@
   - [x] Complete Chapter 2
   - [x] Start Chapter 3
   - [x] Improve ConvNEXT performance
-  - [ ] Compare ConvNEXT performance to ResNet50
+  - [x] Compare ConvNEXT performance to ResNet50
   - [ ] Apply GradCAM to ConvNext implementation
 - W30Y2022
   - [x] Implement ConvNext Model
