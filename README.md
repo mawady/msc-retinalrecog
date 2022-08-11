@@ -3,12 +3,16 @@
 [[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)]
 
 ## ToDo List
+- W32Y2022
+  - [ ] Complete Chapter 3
+  - [ ] Start Chapter 4
+  - [ ] Clean and refactor code
 - W31Y2022
   - [x] Complete Chapter 2
   - [x] Start Chapter 3
   - [x] Improve ConvNEXT performance
   - [x] Compare ConvNEXT performance to ResNet50
-  - [ ] Apply GradCAM to ConvNext implementation
+  - [x] Apply GradCAM to ConvNext implementation
 - W30Y2022
   - [x] Implement ConvNext Model
 - W29Y2022
