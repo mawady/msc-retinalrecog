@@ -6,7 +6,7 @@
 - W32Y2022
   - [ ] Complete Chapter 3
   - [ ] Start Chapter 4
-  - [ ] Clean and refactor code
+  - [ ] Clean and refactor code
 - W31Y2022
   - [x] Complete Chapter 2
   - [x] Start Chapter 3
