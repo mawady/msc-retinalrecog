@@ -5,7 +5,7 @@
 ## ToDo List
 - W32Y2022
   - [x] Add APTOS 2019 examples in Chap 2 - Datasets
-  - [ ] Add visualisation techniques to Chap 2 - Evaluation Metrics
+  - [x] Add visualisation techniques to Chap 2 - Evaluation Metrics
   - [ ] Complete Chapter 3 (+ update images for Data Augm. step by step, move Hyperparameters to ch 4)
   - [ ] Start Chapter 4
   - [ ] Clean and refactor code
