@@ -6,10 +6,10 @@
 - W32Y2022
   - [x] Add APTOS 2019 examples in Chap 2 - Datasets
   - [x] Add visualisation techniques to Chap 2 - Evaluation Metrics
-  - [ ] Complete Chapter 3 (+ update images for Data Augm. step by step, move Hyperparameters to ch 4)
+  - [x] Complete Chapter 3 (+ update images for Data Augm. step by step, move Hyperparameters to ch 4)
   - [x] Start Chapter 4
   - [ ] Clean and refactor code
-  - [ ] Add color scale to GradCAM outputs
+  - [x] Add color scale to GradCAM outputs
 - W31Y2022
   - [x] Complete Chapter 2
   - [x] Start Chapter 3
