@@ -3,12 +3,16 @@
 [[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)]
 
 ## ToDo List
+- W33Y2022
+  - [ ] Finish Chapter 4
+  - [ ] Start Chapter 5
+  - [ ] Final refactoring to the code (add dataset download, comments, ...)
 - W32Y2022
   - [x] Add APTOS 2019 examples in Chap 2 - Datasets
   - [x] Add visualisation techniques to Chap 2 - Evaluation Metrics
   - [x] Complete Chapter 3 (+ update images for Data Augm. step by step, move Hyperparameters to ch 4)
   - [x] Start Chapter 4
-  - [ ] Clean and refactor code
+  - [x] Clean and refactor code
   - [x] Add color scale to GradCAM outputs
 - W31Y2022
   - [x] Complete Chapter 2
