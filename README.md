@@ -6,6 +6,7 @@
 - W33Y2022
   - [ ] Finish Chapter 4
   - [ ] Start Chapter 5
+  - [ ] Chapter 1 - Contributions
   - [ ] Final refactoring to the code (add dataset download, comments, ...)
 - W32Y2022
   - [x] Add APTOS 2019 examples in Chap 2 - Datasets
