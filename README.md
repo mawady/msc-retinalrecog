@@ -4,7 +4,7 @@
 
 ## ToDo List
 - W33Y2022
-  - [ ] Finish Chapter 4
+  - [ ] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [ ] Start Chapter 5
   - [ ] Chapter 1 - Contributions
   - [ ] Final refactoring to the code (add dataset download, comments, ...)
