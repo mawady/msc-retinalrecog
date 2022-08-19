@@ -4,10 +4,10 @@
 
 ## ToDo List
 - W33Y2022
-  - [ ] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
+  - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [ ] Start Chapter 5
   - [ ] Chapter 1 - Contributions
-  - [ ] Final refactoring to the code (add dataset download, comments, ...)
+  - [x] Final refactoring to the code (add dataset download, comments, ...)
   - [x] Train model on MESSIDOR
   - [x] Edit GradCAM code to show color scale
 - W32Y2022
