@@ -8,7 +8,8 @@
   - [ ] Start Chapter 5
   - [ ] Chapter 1 - Contributions
   - [ ] Final refactoring to the code (add dataset download, comments, ...)
-  - [ ] Train model on MESSIDOR
+  - [x] Train model on MESSIDOR
+  - [ ] Edit GradCAM code to show color scale
 - W32Y2022
   - [x] Add APTOS 2019 examples in Chap 2 - Datasets
   - [x] Add visualisation techniques to Chap 2 - Evaluation Metrics
