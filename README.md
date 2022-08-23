@@ -3,9 +3,13 @@
 [[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)]
 
 ## ToDo List
+- W34Y2022
+  - [ ] Finish Chapter 5
+  - [ ] Proofreading 
+  - [ ] Clean up GitHub repository
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
-  - [ ] Start Chapter 5
+  - [x] Start Chapter 5
   - [x] Chapter 1 - Contributions
   - [x] Final refactoring to the code (add dataset download, comments, ...)
   - [x] Train model on MESSIDOR
