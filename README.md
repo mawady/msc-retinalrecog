@@ -6,7 +6,7 @@
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [ ] Start Chapter 5
-  - [ ] Chapter 1 - Contributions
+  - [x] Chapter 1 - Contributions
   - [x] Final refactoring to the code (add dataset download, comments, ...)
   - [x] Train model on MESSIDOR
   - [x] Edit GradCAM code to show color scale
