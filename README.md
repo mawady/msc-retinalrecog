@@ -7,6 +7,7 @@
   - [ ] Finish Chapter 5
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
+  - [ ] Normalise confusion matrices
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [x] Start Chapter 5
