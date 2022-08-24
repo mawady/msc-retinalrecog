@@ -8,6 +8,9 @@
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
   - [ ] Normalise confusion matrices
+  - [ ] Chapter 5 - multiple disease identification
+  - [ ] Chapter 4 - discuss extreme cases
+  - [ ] Chapter 1 - bullet points for Contributions
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [x] Start Chapter 5
