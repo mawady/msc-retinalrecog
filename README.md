@@ -11,7 +11,7 @@
   - [ ] Chapter 5 - multiple disease identification
   - [ ] Chapter 4 - discuss extreme cases
   - [x] Chapter 1 - bullet points for Contributions
-  - [ ] Chapter 3 - transfer learning
+  - [x] Chapter 3 - transfer learning
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [x] Start Chapter 5
