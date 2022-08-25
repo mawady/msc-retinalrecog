@@ -7,10 +7,10 @@
   - [ ] Finish Chapter 5
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
-  - [ ] Normalise confusion matrices
+  - [x] Normalise confusion matrices
   - [ ] Chapter 5 - multiple disease identification
   - [ ] Chapter 4 - discuss extreme cases
-  - [ ] Chapter 1 - bullet points for Contributions
+  - [x] Chapter 1 - bullet points for Contributions
   - [ ] Chapter 3 - transfer learning
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
