@@ -7,9 +7,11 @@
   - [x] Finish Chapter 5
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
+  - [ ] Increase number of words (roughly by 2K)
+  - [ ] Start working on demo
   - [x] Normalise confusion matrices
   - [x] Chapter 5 - multiple disease identification
-  - [ ] Chapter 4 - discuss extreme cases
+  - [x] Chapter 4 - discuss extreme cases
   - [x] Chapter 1 - bullet points for Contributions
   - [x] Chapter 3 - transfer learning
 - W33Y2022
