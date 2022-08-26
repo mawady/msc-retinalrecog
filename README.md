@@ -4,7 +4,7 @@
 
 ## ToDo List
 - W34Y2022
-  - [ ] Finish Chapter 5
+  - [x] Finish Chapter 5
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
   - [x] Normalise confusion matrices
