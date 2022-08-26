@@ -1,6 +1,6 @@
 # Retinal imaging analysis - Recognition
 ## Report
-[[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)] - words: ~ 12100
+[[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)] - words: ~ 13034
 
 ## ToDo List
 - W34Y2022
