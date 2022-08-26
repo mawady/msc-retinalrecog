@@ -8,7 +8,7 @@
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
   - [x] Normalise confusion matrices
-  - [ ] Chapter 5 - multiple disease identification
+  - [x] Chapter 5 - multiple disease identification
   - [ ] Chapter 4 - discuss extreme cases
   - [x] Chapter 1 - bullet points for Contributions
   - [x] Chapter 3 - transfer learning
