@@ -5,7 +5,7 @@
 ## ToDo List
 - W34Y2022
   - [x] Finish Chapter 5
-  - [ ] Write Abstract
+  - [x] Write Abstract
   - [x] Write Attestation
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
