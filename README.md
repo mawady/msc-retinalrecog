@@ -5,6 +5,12 @@
 ## Huggingface demo
 [[Demo](https://huggingface.co/spaces/ccaglieri/convnext_diabetic)] 
 
+## Pre-trained models
+| Model     | Dataset   | Accuracy | Download |
+| ConvNeXt-tiny | APTOS2019 | 0.82 | [[x](https://drive.google.com/file/d/1f05wq1T4G1dVTzyG7kpzqPBUNixrx1p2)]  |
+| ConvNeXt-tiny | MESSIDOR-2 | 0.76 | [[x](https://drive.google.com/file/d/1-6qC0qimrqqgRDcZZ5VwBI5ptOLBkjZN)] |
+| ResNet18 | APTOS2019 | 0.72 | [[x](https://drive.google.com/file/d/12O24WtKMzh2e-P9Q8TChsNxmlOaJglg8)]  |
+
 ## ToDo List
 - W34Y2022
   - [x] Finish Chapter 5
