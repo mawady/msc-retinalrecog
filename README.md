@@ -18,7 +18,7 @@
   - [x] Write Abstract
   - [x] Write Attestation
   - [ ] Proofreading 
-  - [ ] Clean up GitHub repository
+  - [x] Clean up GitHub repository
   - [x] Increase number of words (roughly by 2K)
   - [x] Start working on demo
   - [x] Normalise confusion matrices
@@ -26,6 +26,7 @@
   - [x] Chapter 4 - discuss extreme cases
   - [x] Chapter 1 - bullet points for Contributions
   - [x] Chapter 3 - transfer learning
+  - [ ] Prepare demo slides
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [x] Start Chapter 5
