@@ -12,8 +12,8 @@
   - [x] Write Attestation
   - [ ] Proofreading 
   - [ ] Clean up GitHub repository
-  - [ ] Increase number of words (roughly by 2K)
-  - [ ] Start working on demo
+  - [x] Increase number of words (roughly by 2K)
+  - [x] Start working on demo
   - [x] Normalise confusion matrices
   - [x] Chapter 5 - multiple disease identification
   - [x] Chapter 4 - discuss extreme cases
