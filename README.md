@@ -1,6 +1,6 @@
 # Retinal imaging analysis - Recognition
 ## Report
-[[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)] - words: ~ 13880
+[[Report pdf](https://drive.google.com/file/d/19MpA7nUf-Nlk3a9o5qB2mbcP0hOz8m3v/view?usp=sharing)] - words: ~ 15064 (excluding code snippets, including tables and captions)
 
 ## Huggingface demo
 [[Demo](https://huggingface.co/spaces/ccaglieri/convnext_diabetic)] 
