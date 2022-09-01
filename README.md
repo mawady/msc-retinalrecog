@@ -13,11 +13,14 @@
 | ResNet18 | APTOS2019 | 0.72 | [[x](https://drive.google.com/file/d/12O24WtKMzh2e-P9Q8TChsNxmlOaJglg8)]  |
 
 ## ToDo List
+- W35Y2022
+  - [ ] Prepare demo slides
+  - [ ] Update demo examples
 - W34Y2022
   - [x] Finish Chapter 5
   - [x] Write Abstract
   - [x] Write Attestation
-  - [ ] Proofreading 
+  - [x] Proofreading 
   - [x] Clean up GitHub repository
   - [x] Increase number of words (roughly by 2K)
   - [x] Start working on demo
@@ -26,7 +29,6 @@
   - [x] Chapter 4 - discuss extreme cases
   - [x] Chapter 1 - bullet points for Contributions
   - [x] Chapter 3 - transfer learning
-  - [ ] Prepare demo slides
 - W33Y2022
   - [x] Finish Chapter 4 (+ Specificity/Sensitivity/AUC)
   - [x] Start Chapter 5
