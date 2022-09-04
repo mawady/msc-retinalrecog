@@ -15,7 +15,7 @@
 ## ToDo List
 - W35Y2022
   - [ ] Prepare demo slides
-  - [ ] Update demo examples
+  - [x] Update demo examples
 - W34Y2022
   - [x] Finish Chapter 5
   - [x] Write Abstract
